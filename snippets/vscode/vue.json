@@ -1,0 +1,11 @@
+{
+  "vue3":{
+    "prefix":["vue","vue3"],
+    "body":[
+      "<script setup>",
+      "</script>",
+      "<template>",
+      "</template>"
+    ]
+  }
+}

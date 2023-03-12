@@ -1,0 +1,13 @@
+{
+	"name": "wjl-snippets",
+	"contributes": {
+		"snippets": [
+			{
+				"language": [
+					"vue"
+				],
+				"path": "./vscode/vue.json"
+			}
+		]
+	}
+}
